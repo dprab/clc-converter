@@ -3,6 +3,7 @@ Converts historical data saved in a csv or xlsx format to clc format.
 Example csv or xlsx formats are csv_format_example.csv and xlsx_format_example.xlsx
 
 Copyright (c) 2020 Darshan Prabakaran
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
