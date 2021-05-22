@@ -1,5 +1,5 @@
 # clc-converter
-Converts historical data saved in a csv or xlsx format to clc format.
+Converts historical data saved in a .csv or .xlsx format to .clc format.
 
 Example csv or xlsx formats are inlcuded in github repository
 
